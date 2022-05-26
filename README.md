@@ -1,1 +1,0 @@
-This repository contains two files according to our given assignment , one is the actual html code which is present in index.html and the css code which is implemented in style.css file which is again contained in a css folder.
